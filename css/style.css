@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    background-color: #403d38;
+}
+.mab{
+    background-image: url(../imgs/contact-details-map.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #969696;
+    
+}
+footer{
+    background-color: #353330;
+}
+.c{
+    color: #969696;
+}
+.width{
+ 
+    width: 30px;
+}
+.m{
+    color: #969696;
+    line-height: 30px;
+}
+ .w{
+    width: 38px;
+}
+.bg{
+    background-color:#403d38 ;
+}
+.home{
+    background-image: url(../imgs/drew-coffman-1872.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.home-cap{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.circ{
+    background-color: #8e7754;
+}
+
+.nav-logo{
+   
+    width: 13%;
+    float: left;
+    margin-top: 10px;
+}
+.nav-logo img{
+    width: 100%;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.nav-links ul{
+    margin-top: 10px;
+    float: right;
+}
+.nav-links ul li{
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+}
+.nav-links ul li a{
+    color: white;
+    text-decoration: none;
+}
+.clr{
+    clear: both;
+}
+.home-cap p{
+    font-size: 23px;
+}
+.home-cap h1{
+    font-size: 55px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.home-cap .btn{
+padding: 17px;
+font-size: 17px;
+color: white;
+border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin: 20px 5px ;
+}
+.home-cap .btn1{
+    background-color: #8e7754;
+    border-width: 0;
+    
+}
+.home-cap .btn2
+{
+    background-color: transparent;
+    border: 2px solid white;
+}
+.scroll{
+    width: 35px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 40%;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+    margin: auto;
+    margin-top: 40px;
+}
